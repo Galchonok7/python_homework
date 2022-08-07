@@ -1,2 +1,3 @@
-# project
-my first project
+# python homework
+
+task 1
